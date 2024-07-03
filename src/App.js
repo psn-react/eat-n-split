@@ -1,5 +1,3 @@
-import { Children } from "react";
-
 const initialFriends = [
   {
     id: 118836,
